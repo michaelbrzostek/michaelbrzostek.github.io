@@ -1,2 +1,3 @@
 # michaelbrzostek.github.io
-personal site
+[personal site](michaelbrzostek.github.io)
+
