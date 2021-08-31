@@ -1,3 +1,3 @@
 # michaelbrzostek.github.io
-[personal site](michaelbrzostek.github.io)
+[personal site](https://michaelbrzostek.github.io)
 
